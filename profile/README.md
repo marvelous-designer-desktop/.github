@@ -19,7 +19,6 @@ A quick look at key parts in action:
 
 ![Main Workspace](https://cdnb.artstation.com/p/marketplace/presentation_assets/000/485/727/large/file.jpg?1597732107)  
 ![3D Garment Simulation](https://outgang.studio/media/lecture_070_thumb_01.webp)  
-![Pattern Design Panel](images/pattern-panel.png)  
 
 ---
 
